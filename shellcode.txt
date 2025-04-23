@@ -1,0 +1,2 @@
+import ai_vex_generator
+ai_vex_generator.run_ai_vex_tool()
