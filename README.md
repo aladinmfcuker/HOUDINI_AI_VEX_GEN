@@ -9,7 +9,7 @@ Description: Generates VEX code using selected AI provider (Anthropic, Gemini, o
 
 Requirements:
 - Houdini 18.0+ (for PySide2)
-- RUN THIS *Houdini>shell>hython -m pip install google-generativeai openai anthropic*
+- RUN THIS **Houdini>shell>hython -m pip install google-generativeai openai anthropic**
 - Python 3.x (standard with recent Houdini versions)
 - anthropic (>= 0.20.0), google-generativeai, and openai (>= 1.0.0) Python packages
 - API keys for the services you wish to use
