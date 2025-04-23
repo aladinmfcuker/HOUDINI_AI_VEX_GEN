@@ -38,8 +38,4 @@ Option 2 (Less Secure - Use with Caution): Paste keys directly below.
            understand the implications and cannot use environment variables.
            Avoid sharing scripts with hardcoded keys.
 
-Replace your api in ai_vex_generator.py (easy method but unsecure)
-EXAMPLE CODE *****# --- API Key Configuration (Check Environment Variables First) ---
-MANUAL_ANTHROPIC_API_KEY = "YOUR API KEY"  # Your Anthropic API key
-MANUAL_GOOGLE_API_KEY = "YOUR API KEY"     # Your Google AI API key
-MANUAL_OPENAI_API_KEY = "YOUR API KEY"     # Your OpenAI API key*****
+Replace your api keys in ai_vex_generator.py (easy method but unsecure)
